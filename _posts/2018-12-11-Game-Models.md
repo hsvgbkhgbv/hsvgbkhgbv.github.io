@@ -27,3 +27,7 @@ In the absence of uncertainty the following elements constitute a model of ratio
 - A consequence function $g: A \rightarrow C$ that associates a consequence with each action.
 - A preference relation $\succsim$ on the set $C$.
 
+Sometimes the decision-maker's preferences are specified by giving a utility function $U: C \rightarrow \mathbb{R}$, which defines a preference relation $\succsim$ by the condition $x \succsim y$ if and only if $U(x) \geq U(y)$.
+
+Given any set $B \subseteq A$ of actions that are feaible in some particular case, a rational decision-maker selects an action $a^{*}$ that is feasible (belongs to $B$) and optimal in the sense that $g(a^{*}) \succsim g(a)$ for all $a \in B$; alternatively he solves the problem \max_{a \in B} U(g(a)).
+
