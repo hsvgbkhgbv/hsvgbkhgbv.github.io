@@ -29,7 +29,7 @@ In the absence of uncertainty the following elements constitute a model of ratio
 
 Sometimes the decision-maker's preferences are specified by giving a utility function $U: C \rightarrow \mathbb{R}$, which defines a preference relation $\succsim$ by the condition $x \succsim y$ if and only if $U(x) \geq U(y)$.
 
-Given any set $B \subseteq A$ of actions that are feaible in some particular case, a rational decision-maker selects an action $a^{*}$ that is feasible (belongs to $B$) and optimal in the sense that $g(a^{*}) \succsim g(a)$ for all $a \in B$; alternatively he solves the problem $\max_{a \in B} U(g(a))$.
+Given any set $B \subseteq A$ of actions that are feaible in some particular case, a rational decision-maker selects an action $a^{*}$ that is feasible (belongs to $B$) and optimal in the sense that $g(a^{\*}) \succsim g(a)$ for all $a \in B$; alternatively he solves the problem $\max_{a \in B} U(g(a))$.
 
 ## The Steady State and Deductive Interpretations
 There are two conflicting interpretations of solutions for strategic and extensive games, the steady state interpretation and the deductive interpretation. The steady state interpretation treats a game as a model designed to explain some regularity observed in a family of similar solutions. Each participant knows the equilibrium and tests the optimality of his behavior given this knowledge, which he has acquired from his long experience. The deductive interpretation, by contrast, treats a game in isolation, as a one-shot event, and attempts to infer the restrictions that rationality imposes on the outcome. It assumes that each player deduces how the other players will behave simply from principles of rationality.
