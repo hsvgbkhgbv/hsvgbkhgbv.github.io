@@ -31,3 +31,8 @@ Sometimes the decision-maker's preferences are specified by giving a utility fun
 
 Given any set $B \subseteq A$ of actions that are feaible in some particular case, a rational decision-maker selects an action $a^{*}$ that is feasible (belongs to $B$) and optimal in the sense that $g(a^{*}) \succsim g(a)$ for all $a \in B$; alternatively he solves the problem \max_{a \in B} U(g(a)).
 
+## The Steady State and Deductive Interpretations
+There are two conflicting interpretations of solutions for strategic and extensive games, the steady state interpretation and the deductive interpretation. The steady state interpretation treats a game as a model designed to explain some regularity observed in a family of similar solutions. Each participant knows the equilibrium and tests the optimality of his behavior given this knowledge, which he has acquired from his long experience. The deductive interpretation, by contrast, treats a game in isolation, as a one-shot event, and attempts to infer the restrictions that rationality imposes on the outcome. It assumes that each player deduces how the other players will behave simply from principles of rationality.
+
+## Bounded Rationality
+When we talk in real life about games we often focus on the asymmetry between individuals in their abilities. These differences, which are so critical in life, are missing from game theory in its current form. Modelling asymmetries in abilities and in perceptions of a situation by different players is a fascinating challenge for future research, which models bounded rationality have begun to tackle.
