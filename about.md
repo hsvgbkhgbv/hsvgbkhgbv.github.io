@@ -9,7 +9,7 @@ I am Jianhong Wang and I graduated from University College London for MRes degre
 ### More Information
 
 #### My publications:
-1. [https://www.researchgate.net/publication/329396103_A_Cnn-Gru_Approach_to_Capture_Time-Frequency_Pattern_Interdependence_for_Snore_Sound_Classification]
+1. [https://www.researchgate.net/publication/329396103_A_Cnn-Gru_Approach_to_Capture_Time-Frequency_Pattern_Interdependence_for_Snore_Sound_Classification](publication 1)
 
 ### Contact me
 
