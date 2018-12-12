@@ -20,4 +20,4 @@ Under a wide range of circumstances the preference relation $\succsim_{i}$ of pl
 |---|---|---|
 | **T** | $w_{1}, w_{2}$ | $x_{1}, x_{2}$ |
 | **B** | $y_{1}, y_{2}$ | $z_{1}, z_{2}$ |
-<\center>
+</center>
