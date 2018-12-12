@@ -10,7 +10,7 @@ Game theory is a subject that helps us to realize the phenomena caused by the in
 In general, the template of game theory involves two parts, a game and a solution. Specifically, a game is a description of strategic interaction that includes the actions that the players interests or the players can conduct, but excluding the actions that the players actually take. A solution is a systematic description of the outcomes that may emerge in a family of games, and this solution should be reasonable.
 
 ### Non-cooperative and Cooperative Games
-In game theory, a player can be regarded as an infividual or a group of decision-makers. Those in which the sets of possible actions of individual players are primitives are referred to as non-cooperative whereas those in which the sets of possible joint actions of groups of players are primitives are referred to as cooperative.
+In game theory, a player can be regarded as an individual or a group of decision-makers. Those in which the sets of possible actions of individual players are primitives are referred to as non-cooperative whereas those in which the sets of possible joint actions of groups of players are primitives are referred to as cooperative.
 
 ### Strategic Games and Extensive Games
 A strategic game is a model of a situation in which each player selects his plan of actions once and all of players' decisions are made simultaneously. During the procedure, no player is informed of the plan of actions chosen by other players. By contrast, the model of an extensive game specifies the possible sequences of events where each player can take into account of his plan of action not only at the beginning of the game but also the intermediate stage.
