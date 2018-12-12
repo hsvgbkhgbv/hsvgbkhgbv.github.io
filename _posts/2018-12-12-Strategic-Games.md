@@ -15,6 +15,9 @@ If the set $A_{i}$ of actions of every player $i$ is finite then the game is *fi
 
 Under a wide range of circumstances the preference relation $\succsim_{i}$ of player $i$ in a strategic game can be represented by a **payoff function** $u_{i}: A \rightarrow \mathbb{R}$ (also called a *utility function*), in the sense that $u_{i}(a) \geq u_{i}(b)$ whenever $a \succsim_{i} b$. We refer to values of such a function as **payoffs** (or utilities). Thus, we usually denote the game by $\langle N, (A_{i}), (u_{i}) \rangle$ rather than $\langle N, (A_{i}), (\succsim_{i}) \rangle$.
 
---- | ---
-$w_{1}, w_{2}$ | $x_{1}, x_{2}$
---- | ---
+->
+| # | L | R |
+|---|---|---|
+| T | $w_{1}, w_{2}$ | $x_{1}, x_{2}$ |
+| B | $y_{1}, y_{2}$ | $z_{1}, z_{2}$ |
+<-
