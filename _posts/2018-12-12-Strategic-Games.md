@@ -22,3 +22,5 @@ For example, in the table below it shows a representation of a strategic game. T
 |**T**| $\ \ \tiny w_{1}, w_{2}\ \$ | $\ \ \tiny x_{1}, x_{2}\ \$ |
 |**B**| $\ \ \tiny y_{1}, y_{2}\ \$ | $\ \ \tiny z_{1}, z_{2}\ \$ |
 
+## Intepretation
+A common interpretation of a strategic game is that it is a model of an event that occurs only once. Each player knows the details of the game and the fact that all the players are rational, and the players select their actions simultaneously and independently. Another interpretation is that a player can form his expectation of the other players' behaviour on the basis of information about the way that the game or a similar game was played in the past. When referring to the actions of the players in a strategic game as simultaneous we do not necessarily mean that tehse actions are taken at the same point in time. For the situation to be modeled as a strategic game it is important only that the players make decisions independently, no player being informed of the choice of any other player prior to making his own decision.
