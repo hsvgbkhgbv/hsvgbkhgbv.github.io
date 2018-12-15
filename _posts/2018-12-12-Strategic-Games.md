@@ -17,8 +17,8 @@ Under a wide range of circumstances the preference relation $\succsim_{i}$ of pl
 
 For example, in the table below it shows a representation of a strategic game. The set of actions of the row player is $\{ T, B \}$ and that of the column player is $\{ L, R \}$. For instance, the row player's payoff from the outcome $(T, L)$ is $w_{1}$ and the column player's payoff is $w_{2}$. In convention, we name the row palyer as player 1 and the column player as player 2.
 
-                                        |     |      **L**     |      **R**     |
-                                        |------|----------------|----------------|
-                                        |**T** | $\ \ \tiny w_{1}, w_{2}\ \$ | $\ \ \tiny x_{1}, x_{2}\ \$ |
-                                        |**B** | $\ \ \tiny y_{1}, y_{2}\ \$ | $\ \ \tiny z_{1}, z_{2}\ \$ |
+|     |      **L**     |      **R**     |
+|-----|----------------|----------------|
+|**T**| $\ \ \tiny w_{1}, w_{2}\ \$ | $\ \ \tiny x_{1}, x_{2}\ \$ |
+|**B**| $\ \ \tiny y_{1}, y_{2}\ \$ | $\ \ \tiny z_{1}, z_{2}\ \$ |
 
