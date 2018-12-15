@@ -19,6 +19,6 @@ For example, in the table below it shows a representation of a strategic game. T
 
 |     |      **L**     |      **R**     |
 ------|----------------|----------------|
-**T** | $\tiny w_{1}, w_{2}$ | $\tiny x_{1}, x_{2}$ |
-**B** | $\tiny y_{1}, y_{2}$ | $\tiny z_{1}, z_{2}$ |
+**T** | $\ \ \tiny w_{1}, w_{2}\ \$ | $\ \ \tiny x_{1}, x_{2}\ \$ |
+**B** | $\ \ \tiny y_{1}, y_{2}\ \$ | $\ \ \tiny z_{1}, z_{2}\ \$ |
 
