@@ -27,4 +27,4 @@ A common interpretation of a strategic game is that it is a model of an event th
 
 Another interpretation is that a player can form his expectation of the other players' behaviour on the basis of information about the way that the game or a similar game was played in the past. 
 
-When referring to the actions of the players in a strategic game as simultaneous we do not necessarily mean that tehse actions are taken at the same point in time. For the situation to be modeled as a strategic game it is important only that the players make decisions independently, no player being informed of the choice of any other player prior to making his own decision.
+When referring to the actions of the players in a strategic game as simultaneous we do not necessarily mean that these actions are taken at the same point in time. For the situation to be modeled as a strategic game it is important only that the players make decisions independently, no player being informed of the choice of any other player prior to making his own decision.
