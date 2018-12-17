@@ -34,7 +34,7 @@ Nash Equilibrium is the most commonly used solution concept in game theory. This
 
 * Definitions A Nash equilibrium of a strategic game $\langle N, (A_{i}), (\succsim_{i}) \rangle$ is a profile $a^{\*} \in A$ of actions with the property that for every player $i \in N$ we have
 
-$$(a^{\*}_{-i}, a^{\*}_{i}) \succsim_{i} (a^{\*}_{-i}, a_{i}) \text{ for all } a_{i} \in A_{i}.$$
+$(a^{\*}_{-i}, a^{\*}_{i}) \succsim_{i} (a^{\*}_{-i}, a_{i}) \text{ for all } a_{i} \in A_{i}.$
 
 In English, Nash equilibrium means no player can profitably deviate, given the actions of the other players. Besides, we can use another statement to describe Nash equilibrium. For any $a_{-i} \in A_{-i}$ define B_{i}(a_{-i}) to be the set of player i's best actions given $a_{-i}$:
 
