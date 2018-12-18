@@ -18,9 +18,9 @@ Under a wide range of circumstances the preference relation $\succsim_{i}$ of pl
 For example, in the table below it shows a representation of a strategic game. The set of actions of the row player is $\{ T, B \}$ and that of the column player is $\{ L, R \}$. For instance, the row player's payoff from the outcome $(T, L)$ is $w_{1}$ and the column player's payoff is $w_{2}$. In convention, we name the row player as player 1 and the column player as player 2.
 
 |     |      **L**     |      **R**     |
-|-----|----------------|----------------|
-|**T**| $\tiny w_{1}, w_{2}$ | $\tiny x_{1}, x_{2}$ |
-|**B**| $\tiny y_{1}, y_{2}$ | $\tiny z_{1}, z_{2}$ |
+|:-----:|:----------------:|:----------------:|
+|**T**|   $\tiny w_{1}, w_{2}$   |   $\tiny x_{1}, x_{2}$   |
+|**B**|   $\tiny y_{1}, y_{2}$   |   $\tiny z_{1}, z_{2}$   |
 
 ## Intepretation
 A common interpretation of a strategic game is that it is a model of an event that occurs only once. Each player knows the details of the game and the fact that all the players are rational, and the players select their actions simultaneously and independently.
@@ -47,7 +47,7 @@ $$a_{i}^{*} \in B_{i}(a_{-i}^{*}) \text{ for all } i \in N.$$
 ## Existence of a Nash Equilibrium
 An existence result has two purposes. First, if we have a game that satisfies the hypothesis of the result then we know that there is some hope that our efforts to find an equilibrium will meet with success. Second, and more important, the existence of an equilibrium shows that the game is consistent with a steady state solution. The formal proposition to show the existence of Nash equilibrium in a strategic game is stated as following.
 
-* Proposition The strategic game $\langle N, (A_{i}), (\succsim_{i}) \rangle$ has a Nash equilibrium if for all $i \in N$
+* The strategic game $\langle N, (A_{i}), (\succsim_{i}) \rangle$ has a Nash equilibrium if for all $i \in N$
   + the set $A_{i}$ of actions of player $i$ is a nonempty compact convex subset of a Euclidian space
   + the preference relation $\succsim_{i}$ is
     - continuous
