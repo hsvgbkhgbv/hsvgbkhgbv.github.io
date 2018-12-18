@@ -19,8 +19,8 @@ For example, in the table below it shows a representation of a strategic game. T
 
 |     |      **L**     |      **R**     |
 |:-----:|:----------------:|:----------------:|
-|**T**|   $\tiny w_{1}, w_{2}$   |   $\tiny x_{1}, x_{2}$   |
-|**B**|   $\tiny y_{1}, y_{2}$   |   $\tiny z_{1}, z_{2}$   |
+|**T**| $\ \ \tiny w_{1}, w_{2}$ | $\ \ \tiny x_{1}, x_{2}$ |
+|**B**| $\ \ \tiny y_{1}, y_{2}$ | $\ \ \tiny z_{1}, z_{2}$ |
 
 ## Intepretation
 A common interpretation of a strategic game is that it is a model of an event that occurs only once. Each player knows the details of the game and the fact that all the players are rational, and the players select their actions simultaneously and independently.
