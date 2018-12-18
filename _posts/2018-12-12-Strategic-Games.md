@@ -17,10 +17,10 @@ Under a wide range of circumstances the preference relation $\succsim_{i}$ of pl
 
 For example, in the table below it shows a representation of a strategic game. The set of actions of the row player is $\{ T, B \}$ and that of the column player is $\{ L, R \}$. For instance, the row player's payoff from the outcome $(T, L)$ is $w_{1}$ and the column player's payoff is $w_{2}$. In convention, we name the row player as player 1 and the column player as player 2.
 
-|     |      **L**     |      **R**     |
+|     |     &nbsp; **L** &nbsp;    |      &nbsp; **R** &nbsp;    |
 |:-----:|:----------------:|:----------------:|
-|**T**| $\ \ \tiny w_{1}, w_{2}$ | $\ \ \tiny x_{1}, x_{2}$ |
-|**B**| $\ \ \tiny y_{1}, y_{2}$ | $\ \ \tiny z_{1}, z_{2}$ |
+| &nbsp; **T** &nbsp; | &nbsp; $\tiny w_{1}, w_{2}$ &nbsp; | &nbsp; $\tiny x_{1}, x_{2}$ &nbsp; |
+| &nbsp; **B** &nbsp; | &nbsp; $\tiny y_{1}, y_{2}$ &nbsp; | &nbsp; $\tiny z_{1}, z_{2}$ &nbsp; |
 
 ## Intepretation
 A common interpretation of a strategic game is that it is a model of an event that occurs only once. Each player knows the details of the game and the fact that all the players are rational, and the players select their actions simultaneously and independently.
