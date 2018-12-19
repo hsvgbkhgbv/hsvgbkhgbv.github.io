@@ -22,8 +22,8 @@ $$\min_{x \in A_{1}} u_{2}(x, y^{*}) \geq \min_{x \in A_{1}} u_{2}(x, y) \text{ 
 In words, a maxminimizer for player *i* is an action that maximizes the payoff that player *i* can *guarantee*. There are some important properties of strictly competitive games shown as following.
 
 * Let $G = \langle \{1,2\}, (A_{i}), (u_{i}) \rangle$ be a strictly competitive strategic game.
-    + If $(x^{*}, y^{*})$ is a Nash equilibrium of G then $x^{*}$ is a **maxminimizer** for player 1 and $y^{*}$ is a **maxminimizer** for player 2.
-    + If $(x^{*}, y^{*})$ is a Nash equilibrium of *G* then $\max_{x} \min_{y} u_{1}(x, y) = \min_{y} \max_{x} u_{1}(x, y) = u_{1}(x^{*}, y^{*})$, and thus all Nash equilibria of *G* yield the same payoffs.
-    + If $\max_{x} \min_{y} u_{1}(x, y) = \min_{y} \max_{x} u_{1}(x, y)$, $x^{*}$ is a **maxminimizer** for player 1, and $y^{*}$ is a **maxminimizer** for player 2, then $(x^{*}, y^{*})$ is a Nash equilibrium of *G*.
+    + If $(x^{\*}, y^{\*})$ is a Nash equilibrium of G then $x^{\*}$ is a **maxminimizer** for player 1 and $y^{\*}$ is a **maxminimizer** for player 2.
+    + If $(x^{\*}, y^{\*})$ is a Nash equilibrium of *G* then $\max_{x} \min_{y} u_{1}(x, y) = \min_{y} \max_{x} u_{1}(x, y) = u_{1}(x^{\*}, y^{\*})$, and thus all Nash equilibria of *G* yield the same payoffs.
+    + If $\max_{x} \min_{y} u_{1}(x, y) = \min_{y} \max_{x} u_{1}(x, y)$, $x^{\*}$ is a **maxminimizer** for player 1, and $y^{\*}$ is a **maxminimizer** for player 2, then $(x^{\*}, y^{\*})$ is a Nash equilibrium of *G*.
 
 By the third statement above, we can find the players' Nash equilibrium strategies by solving the problems $\max_{x} \min_{y} u_{1}(x, y)$ and $\max_{y} \min_{x} u_{2}(x, y)$. Because of the first and the third statements above, we can conclude that the Nash equilibria of a strictly competitive game are **interchangeable**: if $(x, y)$ and $(x', y')$ are equilibria then so are $(x, y')$ and $(x', y)$. If $\max_{x} \min_{y} u_{1}(x, y) = \min_{y} \max_{x} u_{1}(x, y)$ then we say that this payoff, the equilibrium payoff of player 1, is the **value** of the game.
