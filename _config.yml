@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianhong Wang"
+  name             : Jianhong Wang
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Manchester, UK"
-  employer         : "The University of Manchester"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=K1FKF3IAAAAJ&hl=en"
+  location         : Manchester, UK
+  employer         : The University of Manchester
+  pubmed           : https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow
+  googlescholar    : https://scholar.google.com/citations?user=K1FKF3IAAAAJ&hl=en
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/hsvgbkhgbv"
+  github           : https://github.com/hsvgbkhgbv
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jianhong-wang-45995b100/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : https://www.linkedin.com/in/jianhong-wang-45995b100/
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/hsvgbkhgbv"
+  twitter          : https://twitter.com/hsvgbkhgbv
   vine             :
   weibo            :
   xing             :
