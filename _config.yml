@@ -82,12 +82,12 @@ analytics:
 author:
   name             : Jianhong Wang
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : Postdoctoral Research Associate in Computer Science at University of Manchester.
   location         : Manchester, UK
-  employer         : The University of Manchester
+  employer         : # The University of Manchester
   pubmed           : # https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow
   googlescholar    : https://scholar.google.com/citations?user=K1FKF3IAAAAJ&hl=en
-  email            :
+  email            : jianhong.wang@manchester.ac.uk
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
