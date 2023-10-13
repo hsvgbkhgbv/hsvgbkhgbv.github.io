@@ -21,7 +21,7 @@ Work Experience
 ======
 * 02/2023 - Now: Postdoctoral Research Associate
   * Center for AI Fundamentals, The University of Manchester, UK
-  * Duties: Working on Ad Hoc Teamwork and Multi-Agent Reinforcement Learning
+  * Duties: Working on ad hoc teamwork and multi-agent reinforcement learning
   * Line Manager: Prof. Samuel Kaski
 
 * 09/2021 - 05/2022: Graduate Teaching Assistant
