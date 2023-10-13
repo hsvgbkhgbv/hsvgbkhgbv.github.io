@@ -17,7 +17,7 @@ Education
 * B.Eng. in Computer Science and Electronic Engineering, University of Liverpool, UK, 2012-2016 (First Class)
 
 
-Work experience
+Work Experience
 ======
 * 02/2023 - Now: Postdoctoral Research Associate
   * Center for AI Fundamentals, The University of Manchester, UK

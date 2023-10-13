@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Research Interest
+Short Bio
 -----
-My main research interest rests in multi-agent reinforcement learning, robust reinforcement learning and ad hoc teamwork. About multi-agent reinforcement learning and ad hoc teamwork, I mainly focus on designing algorithms, standing on the perspective of cooperative game theory. Besides, I am also interested in applying machine learning algorithms (especially multi-agent reinforcement learning) to real-world problems (e.g. electric power system, robotics and etc.).
+I am a postdoctoral research associate at the University of Manchester, UK. My main research interest rests in multi-agent reinforcement learning, robust reinforcement learning and ad hoc teamwork. About multi-agent reinforcement learning and ad hoc teamwork, I mainly focus on designing algorithms from the perspective of cooperative game theory. I believe that the incoporation of fundamental mechanism in game theory into developing learning algorithms can shed light on interpretability, transparency and reliability of modern multi-agent systems driven by learning algorithms. Besides, I am also interested in applying machine learning algorithms (especially multi-agent reinforcement learning) to real-world problems and physical systems (e.g. electric power systems, robotics and Chatbot).
+
+I obtained my PhD degree from Imperial College London, UK, in 2023, under supervision of Dr. Yunjie Gu, Prof. Tim C. Green and Dr. Tae-Kyun Kim. Before that, I obtained my M.Res. degree from University College London (UCL), UK, with distinction, in 2018, under supervision of Prof. Jun Wang. I obtained my B.Eng. degree from University of Liverpool, UK, with the first class, in 2016, and my final year project supervisors are Prof. Danushka Bollegala and Prof. Karl Tuyls.
 
 Personal Updates
 -----
