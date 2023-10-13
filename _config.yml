@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Jianhong Wang
+title                    : Jianhong Wang's Home Page
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : Jianhong Wang
-  avatar           : https://github.com/hsvgbkhgbv/hsvgbkhgbv.github.io/blob/master/images/DKC_0157.jpeg
+  avatar           : https://github.com/hsvgbkhgbv/hsvgbkhgbv.github.io/blob/master/images/DKC_0157.jpg
   bio              : Postdoctoral Research Associate in Computer Science at University of Manchester.
   location         : Manchester, UK
   employer         : # The University of Manchester
