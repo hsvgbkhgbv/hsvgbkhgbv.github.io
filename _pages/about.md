@@ -26,11 +26,11 @@ Personal Updates
 
 Selected Publications
 -----
-- [Robust Reinforcement Learning in Continuous Control Tasks with Uncertainty Set Regularization, accepted at CoRL 2023](https://arxiv.org/abs/2207.02016)
-- [SHAQ: Incorporating Shapley Value Theory into Multi-Agent Q-Learning, accepted at NeurIPS 2022](https://arxiv.org/abs/2105.15013)
-- [Multi-Agent Reinforcement Learning for Active Voltage Control on Power Distribution Networks, accepted at NeurIPS 2021](https://arxiv.org/abs/2110.14300)
-- [Modelling Hierarchical Structure between Dialogue Policy and Natural Language Generator with Option Framework for Task-Oriented Dialogue System, accepted at ICLR 2021](https://arxiv.org/abs/2006.06814)
-- [Shapley Q-value: A Local Reward Approach to Solve Global Reward Games, accepted at AAAI 2020 (Oral)](https://arxiv.org/abs/1907.05707)
+- [Robust Reinforcement Learning in Continuous Control Tasks with Uncertainty Set Regularization](https://arxiv.org/abs/2207.02016), accepted at CoRL 2023
+- [SHAQ: Incorporating Shapley Value Theory into Multi-Agent Q-Learning](https://arxiv.org/abs/2105.15013), accepted at NeurIPS 2022
+- [Multi-Agent Reinforcement Learning for Active Voltage Control on Power Distribution Networks](https://arxiv.org/abs/2110.14300), accepted at NeurIPS 2021
+- [Modelling Hierarchical Structure between Dialogue Policy and Natural Language Generator with Option Framework for Task-Oriented Dialogue System](https://arxiv.org/abs/2006.06814), accepted at ICLR 2021
+- [Shapley Q-value: A Local Reward Approach to Solve Global Reward Games](https://arxiv.org/abs/1907.05707), accepted at AAAI 2020 (Oral)
 
 Open-Source Environment
 -----
