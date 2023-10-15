@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : Jianhong Wang's Home Page
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jianhong Wang"
 description              : &description "personal description"
 url                      : https://hsvgbkhgbv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
