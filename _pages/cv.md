@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Cooperative Multi-Agent Reinforcement Learning, Imperial College London, UK, 2019-2023
+* Ph.D. in Electrical and Electronic Engineering Research (Thesis title: Shapley Value Based Multi-Agent Reinforcement Learning: Theory, Method and Its Application to Energy Network), Imperial College London, UK, 2019-2023
 * M.Res. in Web Science and Big Data Analytics, University College London, UK, 2017-2018 (Distinction)
 * M.Sc. in Computing (Machine Learning), Imperial College London, UK, 2016-2017 (Merit)
 * B.Eng. in Computer Science and Electronic Engineering, University of Liverpool, UK, 2012-2016 (First-Class Honours Degree)
