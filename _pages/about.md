@@ -16,6 +16,7 @@ I obtained my Ph.D. degree from Imperial College London, UK, in 2024, under supe
 
 Personal Updates
 -----
+- 13/02/2024: One paper accepted at ICAPS 2024
 - 10/12/2023: One paper accepted at AAAI 2024
 - 22/09/2023: One paper accepted at NeurIPS 2023
 - 31/08/2023: One paper accepted at CoRL 2023
