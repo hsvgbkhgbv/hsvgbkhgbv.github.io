@@ -10,7 +10,7 @@ redirect_from:
 
 Ph.D. Thesis
 -----
-My Ph.D. thesis is available in [Spiral, Imperial College’s open access repository](https://spiral.imperial.ac.uk/handle/10044/1/109306).
+My Ph.D. thesis entitled "Shapley Value Based Multi-Agent Reinforcement Learning: Theory, Method and Its Application to Energy Network" is available in [Spiral, Imperial College’s open access repository](https://spiral.imperial.ac.uk/handle/10044/1/109306).
 
 Short Bio
 -----
