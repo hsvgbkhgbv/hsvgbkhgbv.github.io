@@ -10,7 +10,7 @@ redirect_from:
 
 Ph.D. Thesis
 -----
-My Ph.D. thesis entitled [Shapley Value Based Multi-Agent Reinforcement Learning: Theory, Method and Its Application to Energy Network](https://arxiv.org/abs/2402.15324) is available.
+My Ph.D. thesis entitled [Shapley Value Based Multi-Agent Reinforcement Learning: Theory, Method and Its Application to Energy Network](https://arxiv.org/abs/2402.15324) is available online.
 
 Short Bio
 -----
@@ -21,6 +21,10 @@ I obtained my Ph.D. degree from Imperial College London, UK, in 2024, under supe
 Research Interests
 -----
 My primary research interests revolve around Multi-Agent Reinforcement Learning, Robust Reinforcement Learning and Ad Hoc Teamwork. About Multi-Agent Reinforcement Learning and Ad Hoc Teamwork, my emphasis lies in designing algorithms through the lens of [Cooperative Game Theory](https://en.wikipedia.org/wiki/Cooperative_game_theory). I firmly believe that integrating fundamental mechanisms from Game Theory into the development of learning algorithms can shed light on interpretability, transparency and reliability of comtemporary learning-based Multi-Agent Systems. Beyond theoretical endeavors, I am passionate about the practical applications of Machine Learning algorithms (particularly Multi-Agent Reinforcement Learning) to Autonomous Systems (e.g. Smart Grids, Robotics, Dialogue Systems, etc.).
+
+Activities
+-----
+- 09/08/2024: Co-organizing a workshop called [**Coordination and Cooperation in Multi-Agent Reinforcement Learning**](\url{https://sites.google.com/view/cocomarl-2024/home}) (**CoCoMARL**) at the [**Reinforcement Learning Conference 2024**](https://rl-conference.cc/) (**RLC 2024**). The aim and scope are as follows: This workshop aims to promote the advancement of cooperative and coordinated multi-agent reinforcement learning in both theory and real-world applications (e.g. swarm robotics, traffic management, etc. To achieve the goal, this workshop is constituted of paper submissions, invited talks and panel discussions.
 
 Personal Updates
 -----
