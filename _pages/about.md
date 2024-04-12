@@ -24,7 +24,7 @@ My primary research interests revolve around Multi-Agent Reinforcement Learning,
 
 Activities
 -----
-- 09/08/2024: Co-organizing a workshop called [**Coordination and Cooperation in Multi-Agent Reinforcement Learning**](\url{https://sites.google.com/view/cocomarl-2024/home}) (**CoCoMARL**) at the [**Reinforcement Learning Conference 2024**](https://rl-conference.cc/) (**RLC 2024**). This aim of this workshop is to promote the advancement of cooperative and coordinated multi-agent reinforcement learning in both theory and real-world applications (e.g. swarm robotics, traffic management, etc.). To achieve the goal, this workshop is constituted of paper submissions, invited talks and panel discussions.
+- 09/08/2024: Co-organizing a workshop called [Coordination and Cooperation in Multi-Agent Reinforcement Learning](https://sites.google.com/view/cocomarl-2024/home) (CoCoMARL) at the [Reinforcement Learning Conference 2024](https://rl-conference.cc/) (RLC 2024). This aim of this workshop is to promote the advancement of cooperative and coordinated multi-agent reinforcement learning in both theory and real-world applications (e.g. swarm robotics, traffic management, etc.). To achieve the goal, this workshop is constituted of paper submissions, invited talks and panel discussions.
 
 Personal Updates
 -----
