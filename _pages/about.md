@@ -28,6 +28,7 @@ Activities
 
 Personal Updates
 -----
+- 02/05/2024: One paper accepted at ICML 2024
 - 13/02/2024: One paper accepted at ICAPS 2024
 - 10/12/2023: One paper accepted at AAAI 2024
 - 22/09/2023: One paper accepted at NeurIPS 2023
@@ -37,6 +38,7 @@ Personal Updates
 
 Selected Publications
 -----
+- [Open Ad Hoc Teamwork with Cooperative Game Theory](https://arxiv.org/abs/2402.15259), accepted at ICML 2024
 - [Robust Reinforcement Learning in Continuous Control Tasks with Uncertainty Set Regularization](https://arxiv.org/abs/2207.02016), accepted at CoRL 2023
 - [SHAQ: Incorporating Shapley Value Theory into Multi-Agent Q-Learning](https://arxiv.org/abs/2105.15013), accepted at NeurIPS 2022
 - [Multi-Agent Reinforcement Learning for Active Voltage Control on Power Distribution Networks](https://arxiv.org/abs/2110.14300), accepted at NeurIPS 2021
