@@ -19,7 +19,12 @@ Education
 
 Work Experience
 ======
-* 02/2023 - Now: Postdoctoral Research Associate
+* 09/2024 - Now: Senior Research Associate
+  * School of Engineering Mathematics and Technology, University of Bristol, UK
+  * Duties: Working for the national AI hub in Information Theory for Distributed AI (INFORMED-AI)
+  * Line Manager: Prof. Jonathan Lawry
+
+* 02/2023 - 09/2024: Postdoctoral Research Associate
   * Center for AI Fundamentals, The University of Manchester, UK
   * Duties: Working on ad hoc teamwork and multi-agent reinforcement learning
   * Line Manager: Prof. Samuel Kaski
