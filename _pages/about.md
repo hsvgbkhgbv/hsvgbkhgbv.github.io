@@ -10,13 +10,13 @@ redirect_from:
 
 Ph.D. Thesis
 -----
-My Ph.D. thesis entitled [Shapley Value Based Multi-Agent Reinforcement Learning: Theory, Method and Its Application to Energy Network](https://arxiv.org/abs/2402.15324) is available online.
+My Ph.D. thesis titled [Shapley Value Based Multi-Agent Reinforcement Learning: Theory, Method and Its Application to Energy Network](https://arxiv.org/abs/2402.15324) is available online.
 
 Short Bio
 -----
-I am a Postdoctoral Research Associate at the University of Manchester, UK, working with [Prof. Samuel Kaski](https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en), and a member of the European Lab for Learning and Intelligent Systems ([ELLIS](https://ellis.eu/members)).
+I am a Senior Research Associate working with [Prof Jonathan Lawry](https://scholar.google.co.uk/citations?user=ruHs0xMAAAAJ&hl=en) at University of Bristol, and a member of the European Lab for Learning and Intelligent Systems ([ELLIS](https://ellis.eu/members)). Earlier, I was a Postdoctoral Research Associate at University of Manchester, UK, working with [Prof Samuel Kaski](https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en).
 
-I obtained my Ph.D. degree in Electrical and Electronic Engineering Research from Imperial College London, UK, in 2024, under supervision of [Dr. Yunjie Gu](https://scholar.google.co.uk/citations?user=NyTj-m8AAAAJ&hl=en), [Prof. Tim C. Green](https://scholar.google.co.uk/citations?user=PWvm-uEAAAAJ&hl=en) and [Prof. Tae-Kyun Kim](https://scholar.google.co.uk/citations?user=j2WcLecAAAAJ&hl=en). Before that, I obtained my M.Res. degree in Web Science and Big Data Analytics, from University College London (UCL), UK, with distinction, in 2018, under supervision of [Prof. Jun Wang](https://scholar.google.co.uk/citations?user=wIE1tY4AAAAJ&hl=en), as well as my M.Sc. degree in Computing (Machine Learning), from Imperial College London, UK, with merit, in 2017, under supervision of [Prof. Björn Schuller](https://scholar.google.com/citations?user=TxKNCSoAAAAJ&hl=en) for the master project. Earlier, I obtained my B.Eng. degree in Computer Science and Electronic Engineering, from University of Liverpool, UK, with the first-class honours degree, in 2016, under supervison of [Prof. Danushka Bollegala](https://scholar.google.com/citations?user=kLqCYLMAAAAJ&hl=en) and [Prof. Karl Tuyls](https://scholar.google.com/citations?user=cxRqeVwAAAAJ&hl=en) for the final year project.
+I obtained my Ph.D. degree in Electrical and Electronic Engineering Research from Imperial College London, UK, in 2024, under supervision of [Dr Yunjie Gu](https://scholar.google.co.uk/citations?user=NyTj-m8AAAAJ&hl=en), [Prof Tim C. Green](https://scholar.google.co.uk/citations?user=PWvm-uEAAAAJ&hl=en) and [Prof Tae-Kyun Kim](https://scholar.google.co.uk/citations?user=j2WcLecAAAAJ&hl=en). Before that, I obtained my M.Res. degree in Web Science and Big Data Analytics, from University College London (UCL), UK, with distinction, in 2018, under supervision of [Prof Jun Wang](https://scholar.google.co.uk/citations?user=wIE1tY4AAAAJ&hl=en), as well as my M.Sc. degree in Computing (Machine Learning), from Imperial College London, UK, with merit, in 2017, under supervision of [Prof Björn Schuller](https://scholar.google.com/citations?user=TxKNCSoAAAAJ&hl=en) for the master project. Earlier, I obtained my B.Eng. degree in Computer Science and Electronic Engineering, from University of Liverpool, UK, with the first-class honours degree, in 2016, under supervision of [Prof Danushka Bollegala](https://scholar.google.com/citations?user=kLqCYLMAAAAJ&hl=en) and [Prof Karl Tuyls](https://scholar.google.com/citations?user=cxRqeVwAAAAJ&hl=en) for the final year project.
 
 Research Interests
 -----
@@ -24,17 +24,21 @@ My primary research interests revolve around Multi-Agent Reinforcement Learning,
 
 Academic Activities
 -----
+- 17/09/2024: Started working on the national project as a team member, EPSRC AI hubs: Information theory for distributed AI (INFORMED-AI) (EP/Y028732/1).
 - 09/08/2024: Organizing a workshop called [Coordination and Cooperation in Multi-Agent Reinforcement Learning](https://sites.google.com/view/cocomarl-2024/home) (CoCoMARL) at the [Reinforcement Learning Conference 2024](https://rl-conference.cc/) (RLC 2024). The aim of this workshop is to promote the advancement of cooperative and coordinated multi-agent reinforcement learning in both theory and real-world applications (e.g. swarm robotics, traffic management, etc.). To achieve the goal, this workshop is constituted of paper submissions, invited talks and panel discussions.
+- 07/02/2023: Started working on the national project as a team member, Turing AI World-Leading Researcher Fellowship: Human-AI Research Teams - Steering AI in Experimental Design and Decision-Making (EP/W002973/1).
 
 Personal Updates
 -----
+- 25/09/2024: One paper accepted at NeurIPS 2024
+- 17/09/2024: Joined University of Bristol as a Senior Research Associate
 - 02/05/2024: One paper accepted at ICML 2024
 - 13/02/2024: One paper accepted at ICAPS 2024
 - 10/12/2023: One paper accepted at AAAI 2024
 - 22/09/2023: One paper accepted at NeurIPS 2023
 - 31/08/2023: One paper accepted at CoRL 2023
 - 25/04/2023: One paper accepted at ICML 2023
-- 07/02/2023: Joined the Univeristy of Manchester as a Postdoctoral Research Associate
+- 07/02/2023: Joined University of Manchester as a Postdoctoral Research Associate
 
 Selected Publications
 -----
