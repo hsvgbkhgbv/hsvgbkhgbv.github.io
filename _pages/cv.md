@@ -38,11 +38,9 @@ Work Experience
   * Duties: Investigating the switching control mechanism for reward shaping in reinforcement learning.
   * Line Manager: Dr. David Mguni
 
-Academic Service
-=====
-- 2023, Reviewer for ICML, NeurIPS, ICLR, AAAI, IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, Applied Energy
-- 2022, Reviewer for ICML, NeurIPS, ICLR, IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems
-- 2021, Reviewer for ICML, NeurIPS, ICLR
+More Details
+======
+For more details about my experience, please refer to my [CV](../_cv/Jianhong_Wang_CV.pdf)
 
 <!-- Skills
 ======

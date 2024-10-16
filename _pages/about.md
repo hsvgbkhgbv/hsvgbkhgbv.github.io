@@ -20,7 +20,7 @@ I obtained my Ph.D. degree in Electrical and Electronic Engineering Research fro
 
 Research Interests
 -----
-My primary research interests revolve around Multi-Agent Reinforcement Learning, Robust Reinforcement Learning and Ad Hoc Teamwork. About Multi-Agent Reinforcement Learning and Ad Hoc Teamwork, my emphasis lies in designing algorithms through the lens of [Cooperative Game Theory](https://en.wikipedia.org/wiki/Cooperative_game_theory). I firmly believe that integrating fundamental mechanisms from Game Theory into the development of learning algorithms can shed light on interpretability, transparency and reliability of comtemporary learning-based Multi-Agent Systems. Beyond theoretical endeavors, I am passionate about the practical applications of Machine Learning algorithms (particularly Multi-Agent Reinforcement Learning) to Autonomous Systems (e.g. Smart Grids, Robotics, Dialogue Systems, etc.).
+My primary research interests revolve around Multi-Agent Reinforcement Learning, Robust Reinforcement Learning and Ad Hoc Teamwork. About Multi-Agent Reinforcement Learning and Ad Hoc Teamwork, my emphasis lies in designing algorithms through the lens of [Cooperative Game Theory](https://en.wikipedia.org/wiki/Cooperative_game_theory). I firmly believe that integrating fundamental mechanisms from Game Theory into the development of learning algorithms can shed light on interpretability, transparency and reliability of contemporary learning-based Multi-Agent Systems. Beyond theoretical endeavors, I am passionate about the practical applications of Machine Learning algorithms (particularly Multi-Agent Reinforcement Learning) to Autonomous Systems (e.g. Smart Grids, Robotics, Dialogue Systems, etc.).
 
 Academic Activities
 -----
