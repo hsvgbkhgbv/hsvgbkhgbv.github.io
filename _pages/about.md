@@ -24,12 +24,14 @@ My primary research interests revolve around Multi-Agent Reinforcement Learning,
 
 Academic Activities
 -----
+- 18/12/2024: Organized a workshop called [Multi-Agent Reinforcement Learning Workshop](https://sites.google.com/view/dai-2024-marl) (MARL) at [Distributed Artificial Intelligence 2024](http://www.adai.ai/dai/2024/index.html) (DAI 2024). This workshop delves into the dynamic and complex world of multi-agent systems operating in challenging environments, where solutions may involve multi-agent reinforcement learning or other advanced techniques. Participants are invited to share case studies and real-world applications, showcasing how MAS can drive innovation in areas like embodied agents, autonomous vehicles, robotics, and more.
 - 17/09/2024: Started working on the national project as a team member, EPSRC AI hubs: Information theory for distributed AI (INFORMED-AI) (EP/Y028732/1).
-- 09/08/2024: Organizing a workshop called [Coordination and Cooperation in Multi-Agent Reinforcement Learning](https://sites.google.com/view/cocomarl-2024/home) (CoCoMARL) at the [Reinforcement Learning Conference 2024](https://rl-conference.cc/) (RLC 2024). The aim of this workshop is to promote the advancement of cooperative and coordinated multi-agent reinforcement learning in both theory and real-world applications (e.g. swarm robotics, traffic management, etc.). To achieve the goal, this workshop is constituted of paper submissions, invited talks and panel discussions.
+- 09/08/2024: Organized a workshop called [Coordination and Cooperation in Multi-Agent Reinforcement Learning](https://sites.google.com/view/cocomarl-2024/home) (CoCoMARL) at the [Reinforcement Learning Conference 2024](https://rl-conference.cc/) (RLC 2024). The aim of this workshop is to promote the advancement of cooperative and coordinated multi-agent reinforcement learning in both theory and real-world applications (e.g. swarm robotics, traffic management, etc.). To achieve the goal, this workshop is constituted of paper submissions, invited talks and panel discussions.
 - 07/02/2023: Started working on the national project as a team member, Turing AI World-Leading Researcher Fellowship: Human-AI Research Teams - Steering AI in Experimental Design and Decision-Making (EP/W002973/1).
 
 Personal Updates
 -----
+- 19/12/2024: One paper accepted at AAMAS 2025
 - 25/09/2024: One paper accepted at NeurIPS 2024
 - 17/09/2024: Joined University of Bristol as a Senior Research Associate
 - 02/05/2024: One paper accepted at ICML 2024
@@ -52,3 +54,4 @@ Selected Publications
 Open-Source Environment
 -----
 - [MAPDN: An environment of distributed/decentralised active voltage control on power distribution networks and a batch of state-of-the-art multi-agent actor-critic algorithms that can be used for training.](https://github.com/Future-Power-Networks/MAPDN)
+- [SQDDPG: A framework for the research on multi-agent reinforcement learning and the implementation of the experiments in the paper titled by "Shapley Q-value: A Local Reward Approach to Solve Global Reward Games."](https://github.com/hsvgbkhgbv/SQDDPG)
