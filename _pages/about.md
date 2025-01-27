@@ -37,10 +37,6 @@ Personal Updates
 - 02/05/2024: One paper accepted at ICML 2024
 - 13/02/2024: One paper accepted at ICAPS 2024
 - 10/12/2023: One paper accepted at AAAI 2024
-<!-- - 22/09/2023: One paper accepted at NeurIPS 2023
-- 31/08/2023: One paper accepted at CoRL 2023
-- 25/04/2023: One paper accepted at ICML 2023
-- 07/02/2023: Joined University of Manchester as a Postdoctoral Research Associate -->
 
 Selected Publications
 -----
