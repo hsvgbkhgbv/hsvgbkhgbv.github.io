@@ -42,9 +42,7 @@ Resume
 ======
 For details about my experience, please download my resume using the following link.
 
-<object data="/assets/Jianhong_Wang_Resume.pdf" type="application/pdf" width="100%" height="800">
-  <a href="/assets/Jianhong_Wang_Resume.pdf">Download Jianhong's Resume</a>
-</object>
+[Download Jianhong's Resume](https://drive.google.com/file/d/1m-Spyo4v04PadUIBElu_RQ3qaZpn1YiS/view?usp=sharing)
 
 <!-- Skills
 ======
