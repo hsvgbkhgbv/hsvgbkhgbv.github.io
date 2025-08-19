@@ -50,4 +50,4 @@ Selected Publications
 Open-Source Environment
 -----
 - [MAPDN: An environment of distributed/decentralised active voltage control on power distribution networks and a batch of state-of-the-art multi-agent actor-critic algorithms that can be used for training.](https://github.com/Future-Power-Networks/MAPDN)
-- [SQDDPG: A framework for the research on multi-agent reinforcement learning and the implementation of the experiments in the paper titled by "Shapley Q-value: A Local Reward Approach to Solve Global Reward Games."](https://github.com/hsvgbkhgbv/SQDDPG)
+<!-- - [SQDDPG: A framework for the research on multi-agent reinforcement learning and the implementation of the experiments in the paper titled by "Shapley Q-value: A Local Reward Approach to Solve Global Reward Games."](https://github.com/hsvgbkhgbv/SQDDPG) -->
