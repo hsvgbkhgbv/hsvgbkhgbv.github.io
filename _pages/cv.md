@@ -40,10 +40,10 @@ Work Experience
 
 Resume
 ======
-For the details about my experience, please download my Resume using the following link.
+For details about my experience, please download my resume using the following link.
 
-<object data="../_cv/Jianhong_Wang_Resume.pdf" type="application/pdf" width="100%" height="800">
-  <a href="../_cv/Jianhong_Wang_Resume.pdf">Download Jianhong's Resume</a>
+<object data="../files/Jianhong_Wang_Resume.pdf" type="application/pdf" width="100%" height="800">
+  <a href="../files/Jianhong_Wang_Resume.pdf">Download Jianhong's Resume</a>
 </object>
 
 <!-- Skills
