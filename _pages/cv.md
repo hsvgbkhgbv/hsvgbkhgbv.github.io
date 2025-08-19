@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Education
+<!-- Education
 ======
 * Ph.D. in Electrical and Electronic Engineering Research (Thesis title: Shapley Value Based Multi-Agent Reinforcement Learning: Theory, Method and Its Application to Energy Network), Imperial College London, UK, 2019-2023
 * M.Res. in Web Science and Big Data Analytics, University College London, UK, 2017-2018 (Distinction)
@@ -36,11 +36,11 @@ Work Experience
 * 11/2020 - 03/2021: Part-Time Research Internship
   * Huawei London Research Center
   * Duties: Investigating the switching control mechanism for reward shaping in reinforcement learning.
-  * Line Manager: Dr. David Mguni
+  * Line Manager: Dr. David Mguni -->
 
-More Details
+CV
 ======
-For more details about my experience, please refer to my [CV](../_cv/Jianhong_Wang_CV.pdf)
+For the details about my experience, please refer to my [Resume](../_cv/Jianhong_Wang_Resume.pdf).
 
 <!-- Skills
 ======
