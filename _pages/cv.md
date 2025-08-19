@@ -38,7 +38,7 @@ Work Experience
   * Duties: Investigating the switching control mechanism for reward shaping in reinforcement learning.
   * Line Manager: Dr. David Mguni -->
 
-CV
+Resume
 ======
 For the details about my experience, please download my Resume using the following link.
 
